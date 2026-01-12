@@ -1,0 +1,8 @@
+title: superfamousdog
+description: a personal and technical blog
+url: "https://superfamousdog.github.io"
+
+permalink: /:categories/:title/
+
+exclude:
+  - README.md
