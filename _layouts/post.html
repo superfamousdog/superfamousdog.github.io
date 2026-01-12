@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<style>
+    .back-link {
+        color: #ED8AB3;
+        text-decoration: none;
+        margin-bottom: 20px;
+        display: inline-block;
+    }
+    
+    .back-link:hover {
+        text-decoration: underline;
+    }
+    
+    .date {
+        color: #faccdd;
+        font-size: 0.9em;
+        margin-bottom: 20px;
+    }
+    
+    .content p {
+        color: #ddd;
+        margin-bottom: 15px;
+    }
+</style>
+
+<a href="/" class="back-link">← back</a>
+
+<h1>{{ page.title }}</h1>
+<div class="date">{{ page.date | date: "%B %d, %Y" }}</div>
+
+<div class="content">
+    {{ content }}
+</div>
+
+<a href="/" class="back-link">← back</a>
