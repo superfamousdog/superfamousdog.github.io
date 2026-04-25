@@ -23,14 +23,14 @@ But we _should_ face it. Let's take the above examples steps one step further:
 | I'll be a PM | If software work can be automated, so can PM work. Why would a company bother to pay human PMs if it's not bothering to pay human engineers? |
 | I'll do sales | Sales work can be automated, and AI customers probably won't mind buying from AI |
 | I'll work for the government | Governments will probably cut back on contracts if a portion of the population no longer pays taxes |
-| I'll do blue collar work | The "AI-proof" job market will become saturated. Costs of labor (profit) may drop as people compete for blue collar jobs. Blue collar jobs may become scarce as fewer people will be able to afford to hire workers. |
+| I'll do work that requires hands | The "AI-proof" job market will become saturated. Costs of labor (profit) may drop as people compete for blue collar/manual/in-person jobs. Demand for these jobs may drop as fewer people will be able to afford to hire workers. |
 
 ## Time for some hand-wavey math
 What might "AI taking our jobs" look like? I did a quick snorkel.
 
 The [Bureau of Labor Statistics](https://www.bls.gov/cps/cpsaat11.htm) said there were ~71 million workers in "Management, professional, and related occupations" (this category includes jobs I'd categorize as "AI-proof" but I'm leaving out 30 million "Sales and office occupations" so I think it's a fine conservative estimate).
 
-Let's say eventually we reach a point where 25% of white collar workers have lost their jobs to AI. That would be 17.75 million people. Out of a [170 million labor force](https://www.bls.gov/news.release/empsit.t01.htm), that would increase the unemployment rate by 10.4%. Adding it to today's 4.3% gives us 14.7% total. (It was 10% in October 2009 and briefly peaked at 14.8% during COVID).
+Let's say eventually we reach a point where 25% of computer-based workers have lost their jobs to AI. That would be 17.75 million people. Out of a [170 million labor force](https://www.bls.gov/news.release/empsit.t01.htm), that would increase the unemployment rate by 10.4%. Adding it to today's 4.3% gives us 14.7% total. (It was 10% in October 2009 and briefly peaked at 14.8% during COVID).
 
 Taking that one step further, we would see rippling effects throughout the rest of the labour force as fewer people can buy coffees, pay plumbers, and give a piece of their salary to the government.
 
