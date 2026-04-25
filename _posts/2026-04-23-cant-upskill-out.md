@@ -24,6 +24,7 @@ But we _should_ face it. Let's take the above examples steps one step further:
 | I'll do sales | Sales work can be automated, and AI customers probably won't mind buying from AI |
 | I'll work for the government | Governments will probably cut back on contracts if a portion of the population no longer pays taxes |
 | I'll do work that requires hands | The "AI-proof" job market will become saturated. Costs of labor (profit) may drop as people compete for blue collar/manual/in-person jobs. Demand for these jobs may drop as fewer people will be able to afford to hire workers. |
+| AI will create new jobs-- I'll do one of those | I haven't seen anyone provide an example of a role that would make economic sense, so I don't think it's worth counting on |
 
 It seems clear to me that AI will likely disrupt all jobs (primarily computer-based jobs) across all industries. Obviously, I hope I am wrong.
 
