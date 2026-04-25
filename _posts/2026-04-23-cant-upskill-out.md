@@ -46,6 +46,6 @@ I think the only hope for a somewhat calm transition is for adoption by companie
 
 ### Further reading
 
-https://www.metaculus.com/labor-hub/
+[https://www.metaculus.com/labor-hub/](https://www.metaculus.com/labor-hub/)
 
-https://pauseai.info/
+[https://pauseai.info/](https://pauseai.info/)
