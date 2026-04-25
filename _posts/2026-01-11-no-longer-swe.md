@@ -5,13 +5,13 @@ date: 2026-01-11
 attribution: "This post was 100% written by a human, but I used Slackbot to help me find some old notes-to-self and remember project dates"
 ---
 
-I think my journey through the AI landscape has been similar to a lot of people's.
+I think my journey through the rise of LLMs has been similar to a lot of people's:
 
-In 2023, I copied code back and forth between ChatGPT and my IDE and laughed at the confabulations.
+In 2023, I copied code between ChatGPT and my IDE and laughed at the confabulations.
 
 In 2024, LLMs got better at taking in pieces of codebases. I used Claude to generate more code, but I still touched almost every line. Later in the year, I started using Cursor autocomplete and occasionally asked it to generate boilerplate or parsing code I didn't care about. 
 
-I felt protective of the craft. I am a creative person and I enjoyed writing nice code. I felt protective of the industry. Even though I was pessimistic (I predicted in 2023, after experiencing the magic of ChatGPT for the first time, that models would improve much faster than they actually did and that online customer service jobs would be over in "a matter of months," lol), I bristled every time my then-PM would gleefully show me the latest Windsurf update. Each time a new model came out, I would skeptically exercise it until it made an obvious coding error or failed a benchmark test, at which point I could finally relax. This was manifested anxiety around the potential loss of my job and, what I viewed as a trail of dominoes getting bigger and bigger, the loss of many other people's jobs and eventually severe societal chaos. 
+I felt protective of the craft. I am a creative person and I enjoyed writing nice code. I felt protective of the industry. Even though I was pessimistic (I predicted in 2023, after experiencing the magic of ChatGPT for the first time, that models would improve much faster than they actually did and that some desk jobs would be over in "a matter of months," lol), I bristled every time my then-PM would gleefully show me the latest Windsurf or Lovable update. Each time a new model came out, I would skeptically exercise it until it made an obvious coding error or failed a benchmark test, at which point I could finally relax. This was manifested anxiety around the potential loss of my job and, what I viewed as a trail of dominoes getting bigger and bigger, the loss of many other people's jobs and eventually severe societal chaos. 
 
 In September 2024, my then-skip-level boss asked me to develop:
 1. a Dynamic Time Warping application (based on a c++ algorithm) we could run at scale in the cloud
