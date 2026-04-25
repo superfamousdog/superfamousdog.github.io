@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I've learned from LLMs"
+title: "What LLMs have taught me about communication"
 date: 2026-04-23
 ---
 
