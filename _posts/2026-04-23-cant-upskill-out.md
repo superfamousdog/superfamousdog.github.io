@@ -13,7 +13,7 @@ Here are some more examples I have heard from smart people:
 - "B2B SAAS will be decimated by LLM-generated software. SAAS for the government is safer because governments move slower and don't as readily lay people off"
 - "If there aren't software engineering jobs left, I'll pivot into being a plumber/electrician/landscaper"
 
-Often times, the discussion stops there. But I don't think we're being honest with ourselves. It feels like we're intentionally avoiding eye contact with that scary thing on the horizon, pretending we don't see it. For a worker to face that there is no way to change in order to be able to continue to provide for themselves and their families is scary. What is one supposed to do with that fear? We still need to get through the day without cracking. 
+Often times, the discussion stops there. But I don't think we're being honest with ourselves. It feels like we're intentionally avoiding eye contact with that scary thing on the horizon, pretending we don't see it. I understand-- for a worker to face that there is no way to change in order to be able to continue to provide for themselves and their families is scary. What is one supposed to do with that fear? We still need to get through the day without cracking. 
 
 But we _should_ face it. Let's take the above examples steps one step further:
 
@@ -31,7 +31,7 @@ The [Bureau of Labor Statistics](https://www.bls.gov/cps/cpsaat11.htm) said ther
 
 Let's say eventually we reach a point where 25% of white collar workers have lost their jobs to AI. That would be 17.75 million people. Out of a [170 million labor force](https://www.bls.gov/news.release/empsit.t01.htm), that would increase the unemployment rate by 10.4%. Adding it to today's 4.3% gives us 14.7% total. (It was 10% in October 2009 and briefly peaked at 14.8% during COVID).
 
-Taking that one step further, we would see rippling effects throughout the rest of the labour force as fewer people can buy coffees, pay plumbers, and give a piece of their salary to the government. More money will transfer from 
+Taking that one step further, we would see rippling effects throughout the rest of the labour force as fewer people can buy coffees, pay plumbers, and give a piece of their salary to the government.
 
 ## Conclusion
 
