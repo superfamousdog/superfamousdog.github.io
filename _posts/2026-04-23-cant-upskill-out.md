@@ -25,6 +25,8 @@ But we _should_ face it. Let's take the above examples steps one step further:
 | I'll work for the government | Governments will probably cut back on contracts if a portion of the population no longer pays taxes |
 | I'll do work that requires hands | The "AI-proof" job market will become saturated. Costs of labor (profit) may drop as people compete for blue collar/manual/in-person jobs. Demand for these jobs may drop as fewer people will be able to afford to hire workers. |
 
+It seems clear to me that AI will likely disrupt all jobs (primarily computer-based jobs) across all industries. Obviously, I hope I am wrong.
+
 ## Time for some hand-wavey math
 What might "AI taking our jobs" look like? I did a quick snorkel.
 
@@ -36,7 +38,7 @@ Taking that one step further, we would see rippling effects throughout the rest 
 
 ## Conclusion
 
-There will be third, fourth, etc. order effects from this that I'm not thinking of and maybe won't be possible to guess. Obviously, I'm pretty pessimistic about how "AI taking our jobs" will pan out (I really hope somebody will point out a simple fact I've overlooked and that I am wrong). 
+There will be third, fourth, etc. order effects from this that I'm not thinking of and maybe won't be possible to forsee. Clearly, I'm pretty pessimistic about how "AI taking our jobs" will pan out (I really hope somebody will point out how I am wrong).
 
 We need time to figure out how to handle this so people don't become destitute and desperate. I think it's unrealistic that the government will get UBI together in time to avoid chaos. And I think LLM companies deciding to share their revenue with everyone is a good joke. _Maybe_ someday we will transition to a society where the value of our labor doesn't control our access to healthcare, food, and shelter, but who is going to cover our expenses while that's being figured out?
 
