@@ -2,6 +2,7 @@
 layout: post
 title: "'You Are No Longer A Software Engineer'"
 date: 2026-01-11
+attribution: "This post was 100% written by a human, but I used Slackbot to help me find some old notes-to-self and remember project dates"
 ---
 
 I think my journey through the AI landscape has been similar to a lot of people's.

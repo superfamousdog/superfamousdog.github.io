@@ -19,10 +19,14 @@ layout: default
         font-size: 0.9em;
         margin-bottom: 20px;
     }
-    
-    .content p {
-        color: var(--clr-surface-a50);
-        margin-bottom: 15px;
+
+    .post-footer {
+        margin-top: 40px;
+        padding-top: 20px;
+        border-top: 1px solid var(--clr-surface-a20);
+        font-size: 0.85em;
+        font-style: italic;
+        color: var(--clr-surface-a40);
     }
 </style>
 
@@ -34,5 +38,11 @@ layout: default
 <div class="content">
     {{ content }}
 </div>
+
+{% if page.attribution %}
+<div class="post-footer">
+    {{ page.attribution }}
+</div>
+{% endif %}
 
 <a href="/" class="back-link">← back</a>

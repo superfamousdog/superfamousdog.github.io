@@ -2,6 +2,7 @@
 layout: post
 title: "Upskilling won't save us from AI job loss"
 date: 2026-04-23
+attribution: "This post was written 100% by a human, but Claude helped me look up and understand the BLS stats and check my math"
 ---
 Ever since talk about "AI taking our jobs" got serious, I have been hearing cope from people online, from people around me whom I respect and love, and from myself.
 
@@ -46,5 +47,3 @@ I think the only hope for a somewhat calm transition is for adoption by companie
 ### Further reading
 https://www.metaculus.com/labor-hub/
 https://pauseai.info/
-
-(This post was written 100% by a human, but Claude helped me look up and understand the BLS stats and check my math)
