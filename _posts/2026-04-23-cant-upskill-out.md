@@ -45,5 +45,7 @@ I think the only hope for a somewhat calm transition is for adoption by companie
 *That's not a moral statement, by the way. Their job is to make the company a profitable as possible. Just like [your job isn't to write code](https://superfamousdog.github.io/no-longer-swe/). It's also, at the end of the day, to make the company as profitable as possible, even if it means automating yourself out of a job.
 
 ### Further reading
+
 https://www.metaculus.com/labor-hub/
+
 https://pauseai.info/
