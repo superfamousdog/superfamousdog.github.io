@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Upskilling won't save us from AI job loss'"
+title: "Upskilling won't save us from AI job loss"
 date: 2026-04-23
 ---
 Ever since talk about "AI taking our jobs" got serious, I have been hearing cope from people online, from people around me whom I respect and love, and from myself.
