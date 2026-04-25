@@ -20,7 +20,7 @@ I wasn't fluent in c++ or python, didn't know AWS, and wasn't proficient in data
 
 I realized the only way to get the projects done in an acceptable timeframe was to lean heavily on LLMs. I felt my identity as a Software Engineer who completely understands the system I'm creating and tools I'm using splintering away from reality. I wrote this melodramatic note:
 
-"You are no longer a software engineer. You are a problem solver who has to solve problems as quickly and best as possible."
+![A note saying "You are no longer a software engineer. You are a problem solver who has to solve problems as quickly and best as possible."](/no-longer-swe-note.jpg)
 
 And I kept it front and center on my desk where it has stayed to this day.
 
