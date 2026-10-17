@@ -4,6 +4,7 @@ title: "things i used to be good at"
 date: 2026-10-17
 attribution: "This post was 100% written by a human"
 ---
+![saying what the hell, sure to a helpful coding agent](/what-the-hell-sure.png)
 
 i used to be good at googling
 
