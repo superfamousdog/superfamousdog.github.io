@@ -9,8 +9,6 @@ attribution: "This post was 100% written by a human"
 | *a recent exchange with claude via cursor* |
 
 
-
-<br><br>
 i used to be good at googling
 
 i used to know the exact keywords and semantics to use to find exactly what i was looking for, even if it was a super obscure stackoverflow post from 10 years ago<br><br>
@@ -33,4 +31,9 @@ i had a map of the codebase in my head so I could tell at a glance when somethin
 
 i don't think i was ever particularly good at unit tests
 
-but it was satisfying to watch code coverage go up and write a suite that my tech lead approved of
+but it was satisfying to watch code coverage go up and write a suite that my tech lead approved of<br><br>
+
+--
+
+
+i think i'm probably still good at these things. the skills are still there, just under a bit of dust. I'd like to make time to intentionally develop an application as in the olden days, because it was fun!
