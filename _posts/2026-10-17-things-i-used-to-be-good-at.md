@@ -13,7 +13,7 @@ attribution: "This post was 100% written by a human"
 <br><br>
 i used to be good at googling
 
-i used to know the exact keywords and phrasing to use to find exactly what i was looking for, even if it was a super obscure stackoverflow post from 10 years ago<br><br>
+i used to know the exact keywords and semantics to use to find exactly what i was looking for, even if it was a super obscure stackoverflow post from 10 years ago<br><br>
 
 i used to be good at root cause analysis
 
@@ -29,7 +29,7 @@ i used to use the memory profiler in visual studio. i used to be able to trace b
 
 i used to be good at code reviews
 
-i had a 1-1 map of the codebase in my head so I could tell at a glance when something didn't match our established pattern. I would find bugs before the code holding them got merged. if i wasn't sure, i'd pull my coworker's code and inspect it in my ide or run it myself. i still do this sometimes, but much less than i used to.<br><br>
+i had a map of the codebase in my head so I could tell at a glance when something didn't match our established pattern. I would find bugs before the code holding them got merged. if i wasn't sure, i'd pull my coworker's code and inspect it in my ide or run it myself. i still do this sometimes, but much less than i used to.<br><br>
 
 i don't think i was ever particularly good at unit tests
 
