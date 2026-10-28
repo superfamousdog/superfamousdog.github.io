@@ -36,4 +36,9 @@ but it was satisfying to watch code coverage go up and write a suite that my tec
 --
 
 
-i think i'm probably still good at these things. the skills are still there, just under a bit of dust. I'd like to make time to intentionally develop an application as in the olden days, because it was fun!
+i think i'm still good at these things. the skills are still there, just under a bit of dust. I'd like to make time to intentionally develop an application as in the olden days, because it was fun!
+
+--
+
+10/28/26:
+i used to be good at resolving hairy merge conflicts by hand! oh, my god, remember that? having to ask a teammate for help sometimes? i had an awesome 4-way merge tool that showed the previous file version pre-conflict in addition to mine, theirs, and the result
